@@ -1,9 +1,9 @@
 # Web Apps 
 Develpoed by [KV Subbaiah Setty](https://www.kvssetty.com/about/)
-Mainly ment for his students. 
-But anybody can use it if they like the apps and explore it, by forking and submmiting the Pull Requests (PRs).
+mainly ment for his students. 
+But anybody can use it if they like the apps and want to explore it by, forking and submmiting the Pull Requests (PRs).
 
-**The apps related to:**
+**The apps are related to:**
  - Data Science.
  - Machine Learing.
  - Deep learing.
