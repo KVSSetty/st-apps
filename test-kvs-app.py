@@ -19,11 +19,7 @@ def github_gist(gist_creator, gist_id, height=600, scrolling=True):
         height=height,
         scrolling=scrolling,
     )
-    
-    
-    
-
-
+ 
 # Render a gist
 github_gist('tc87', '9382eafdb6eebde0bca0c33080d54b58')
 st.__version__
